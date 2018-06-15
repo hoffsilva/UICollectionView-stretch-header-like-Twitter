@@ -113,7 +113,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         
         // Apply Transformation
         headerView.layer.transform = headerTransform
-        headerCollection.imgAvatar.layer.transform = avatarTransform
+        //headerCollection.imgAvatar.layer.transform = avatarTransform
     }
     
 
